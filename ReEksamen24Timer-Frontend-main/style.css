@@ -1,0 +1,47 @@
+header{
+    background-color: #ebf5e6;
+    border: solid 1px #004e2c;
+    text-align: center;
+  }
+.boxes{
+    width: 50%;
+    height: 90%;
+    border: solid 1px red;
+    text-align: center;
+    float: left;
+    
+}
+
+.innerBox{
+    width: 50%;
+    height: 30%;
+ 
+    text-align: center;
+    float: left;
+    
+
+}
+
+form{
+    display: table;
+}
+.col{
+    display: table-row;
+}
+label{
+    display: table-cell;
+}
+input{
+    display: table-cell;
+}
+
+.botBoxes{
+width: 50%;
+border: solid 1px blue;
+text-align: center;
+
+float: left;
+
+
+
+}
